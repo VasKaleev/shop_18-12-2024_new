@@ -1,6 +1,7 @@
 Запуск проекта
 # pnpm i
 # pnpm dev
+#https://shop-tov.netlify.app/
 #--------------------------
 # React + TypeScript + Vite
 
